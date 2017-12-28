@@ -1,5 +1,6 @@
 # NeuralNetworkFundamentalLibrary
 Library of Fundamental Layers for Neural Networks
+
 Based on Stanford's cs231n Convolutional Neural Networks for Image Recognition Assignments
 ## Optimizers
   - Stochastic Gradient Descent
